@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "晶片戰爭.md",
+                "file": "Chip War.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter Thiel.md",
+                "file": "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peter Thiel.md",
+                "file": "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peter Thiel.md",
+                "file": "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peter Thiel.md"
+                "file": "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md"
               }
             }
           }
@@ -198,14 +198,14 @@
   },
   "active": "4adf741bf294e446",
   "lastOpenFiles": [
+    "Chip War.md",
+    "雲端服務與系統設計基礎.md",
     "使用AWS Lambda.md",
-    "Peter Thiel.md",
+    "如何使用GKE 搭配 Cloud Nat.md",
+    "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
     "images/Pasted image 20230608162420.png",
     "images/Pasted image 20230608162136.png",
     "images/Pasted image 20230608160941.png",
-    "晶片戰爭.md",
-    "雲端服務與系統設計基礎.md",
-    "如何使用GKE 搭配 Cloud Nat.md",
     "images/Pasted image 20231203203510.png",
     "images/Pasted image 20240131111917.png",
     "images/Pasted image 20240131105240.png",

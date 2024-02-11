@@ -1,6 +1,6 @@
 *2024-02-10*
 
-[[category]]
+[[notes]]
 
 本書的Peter Thiel 是著名企業家、投資人。是PayPal(金融服務)與Palantir(情報系統)的共同創辦人同時也是Facebook的早期投資人，是Mark Zuckerberg尊敬的導師，也是Elon Musk早期同事。
 
