@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "acd0c82b9ab99612",
+        "id": "ce10b3b95bf86ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "01980989a0440549",
+            "id": "ec5b32c08575281e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/template.md",
+                "file": "如何使用GKE 搭配 Cloud Nat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/template.md",
+                "file": "如何使用GKE 搭配 Cloud Nat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/template.md",
+                "file": "如何使用GKE 搭配 Cloud Nat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/template.md"
+                "file": "如何使用GKE 搭配 Cloud Nat.md"
               }
             }
           }
@@ -147,9 +147,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01980989a0440549",
+  "active": "96d4ac42d8d97d58",
   "lastOpenFiles": [
-    "test.md",
+    "category.md",
+    "如何使用GKE 搭配 Cloud Nat.md",
     "template/template.md",
     "template/Untitled",
     "template",
