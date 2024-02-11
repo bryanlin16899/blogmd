@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4adf741bf294e446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peter Thiel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用AWS Lambda.md",
+                "file": "Peter Thiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用AWS Lambda.md",
+                "file": "Peter Thiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用AWS Lambda.md"
+                "file": "Peter Thiel.md"
               }
             }
           }
@@ -184,10 +196,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ebc42aa446530ae",
+  "active": "4adf741bf294e446",
   "lastOpenFiles": [
-    "晶片戰爭.md",
     "使用AWS Lambda.md",
+    "Peter Thiel.md",
+    "images/Pasted image 20230608162420.png",
+    "images/Pasted image 20230608162136.png",
+    "images/Pasted image 20230608160941.png",
+    "晶片戰爭.md",
     "雲端服務與系統設計基礎.md",
     "如何使用GKE 搭配 Cloud Nat.md",
     "images/Pasted image 20231203203510.png",
@@ -197,9 +213,6 @@
     "images/Pasted image 20240131105216.png",
     "images/Pasted image 20240131105152.png",
     "images/Pasted image 20240131104515.png",
-    "images/Pasted image 20240131104030.png",
-    "images/Pasted image 20240131103839.png",
-    "images/Pasted image 20240131103717.png",
     "category.md",
     "template/template.md",
     "template/Untitled",
