@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ce10b3b95bf86ac4",
+        "id": "18dcba04fc729a06",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5b32c08575281e",
+            "id": "dba500af312f0317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "如何使用GKE 搭配 Cloud Nat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac8b77d3f20f2930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "雲端服務與系統設計基礎.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec7785dea4d80a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chip War.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ebc42aa446530ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用AWS Lambda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4adf741bf294e446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +143,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4adf741bf294e446",
+  "active": "96d4ac42d8d97d58",
   "lastOpenFiles": [
     "Chip War.md",
     "雲端服務與系統設計基礎.md",
