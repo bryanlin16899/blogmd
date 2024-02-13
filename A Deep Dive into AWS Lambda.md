@@ -2,7 +2,7 @@
 
 [[technical]]
 
-介紹AWS lambda與使用方法
+serverless computing simplified for efficiency, cost savings, and seamless application development
 ## AWS Lambda
 ![[Pasted image 20230608160941.png|400]]
 [Documentation](https://aws.amazon.com/lambda/?nc1=h_ls)
