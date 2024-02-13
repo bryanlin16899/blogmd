@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+                "file": "雲端服務與系統設計基礎.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+                "file": "雲端服務與系統設計基礎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+                "file": "雲端服務與系統設計基礎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md"
+                "file": "雲端服務與系統設計基礎.md"
               }
             }
           }
@@ -149,14 +149,14 @@
   },
   "active": "dba500af312f0317",
   "lastOpenFiles": [
+    "使用AWS Lambda.md",
+    "雲端服務與系統設計基礎.md",
+    "Chip War.md",
+    "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+    "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
     "images/Pasted image 20240213121715.png",
     "images/Pasted image 20240213121444.png",
     "images/Pasted image 20240211231200.png",
-    "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
-    "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
-    "Chip War.md",
-    "雲端服務與系統設計基礎.md",
-    "使用AWS Lambda.md",
     "如何使用GKE 搭配 Cloud Nat.md",
     "images/Pasted image 20230608162420.png",
     "images/Pasted image 20230608162136.png",
@@ -165,7 +165,6 @@
     "images/Pasted image 20240131111917.png",
     "images/Pasted image 20240131105240.png",
     "images/Pasted image 20240131105233.png",
-    "images/Pasted image 20240131105216.png",
     "category.md",
     "template/template.md",
     "template/Untitled",
