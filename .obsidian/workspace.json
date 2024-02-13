@@ -11,8 +11,12 @@
             "id": "dba500af312f0317",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
+                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
+                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md"
+                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md"
               }
             }
           }
@@ -143,13 +147,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96d4ac42d8d97d58",
+  "active": "dba500af312f0317",
   "lastOpenFiles": [
+    "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
+    "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
     "Chip War.md",
     "雲端服務與系統設計基礎.md",
     "使用AWS Lambda.md",
     "如何使用GKE 搭配 Cloud Nat.md",
-    "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
     "images/Pasted image 20230608162420.png",
     "images/Pasted image 20230608162136.png",
     "images/Pasted image 20230608160941.png",
