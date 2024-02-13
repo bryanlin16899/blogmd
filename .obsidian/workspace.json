@@ -156,17 +156,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "bab6d1ee38e1b8ae",
   "lastOpenFiles": [
     "Test.md",
+    "如何使用GKE 搭配 Cloud Nat.md",
     "A Deep Dive into AWS Lambda.md",
     "Chip War.md",
     "雲端服務與系統設計基礎.md",
     "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
-    "如何使用GKE 搭配 Cloud Nat.md",
     "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
     "images/Pasted image 20240213121715.png",
     "images/Pasted image 20240213121444.png",

@@ -24,7 +24,7 @@ Notice that region must be same with you VPC subnet.
 ![[Pasted image 20240131105152.png|500]]
 ![[Pasted image 20240131105240.png|500]]
 
-# Check external IP from Pod to network
+## Check external IP from Pod to network
 All set! you can run a ubuntu pod to check external IP is same with cloud nat IP
 1. Create a pod that run with ubuntu system
 ```shell
@@ -42,8 +42,8 @@ $ curl ifconfig.co
 >>> 44.33.222.111 (cloud nat ip) ✅
 ```
 ![[Pasted image 20240131111917.png|500]]
-# Optional
-## Set backup plan for old gke cluster
+## Optional
+### Set backup plan for old gke cluster
 6. 備份原本的cluster
 	1. 建立備份方案
 	2. 手動執行備份
