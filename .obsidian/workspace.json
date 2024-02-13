@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "18dcba04fc729a06",
+        "id": "a0f14279338d7b51",
         "type": "tabs",
         "children": [
           {
-            "id": "dba500af312f0317",
+            "id": "b184e0994e17abf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雲端服務與系統設計基礎.md",
+                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "雲端服務與系統設計基礎.md",
+                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "雲端服務與系統設計基礎.md",
+                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "雲端服務與系統設計基礎.md"
+                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dba500af312f0317",
+  "active": "b184e0994e17abf2",
   "lastOpenFiles": [
-    "使用AWS Lambda.md",
+    "如何使用GKE 搭配 Cloud Nat.md",
     "雲端服務與系統設計基礎.md",
-    "Chip War.md",
-    "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+    "使用AWS Lambda.md",
     "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
+    "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+    "Chip War.md",
     "images/Pasted image 20240213121715.png",
     "images/Pasted image 20240213121444.png",
     "images/Pasted image 20240211231200.png",
-    "如何使用GKE 搭配 Cloud Nat.md",
     "images/Pasted image 20230608162420.png",
     "images/Pasted image 20230608162136.png",
     "images/Pasted image 20230608160941.png",
