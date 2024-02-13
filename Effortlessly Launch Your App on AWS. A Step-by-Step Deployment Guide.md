@@ -1,6 +1,6 @@
 *2024-02-12*
 
-[[category]]
+[[technical]]
 
 Today, I have an personal website app built on nextjs want to deploy on production and run in docker. This article teach you deploy an docker container on AWS step by step.
 
