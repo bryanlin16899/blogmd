@@ -2,7 +2,7 @@
 
 [[technical]]
 
-This article will explain how GCP cloud nat works.I will use GKE as service that behind the cloud natzzzz
+This article will explain how GCP cloud nat works.I will use GKE as service that behind the cloud nat wooowwooww
 ## Create VPC (virtual private network)
 create a new VPC, your service and cloud nat will be in this VPC,
 If you want to set your region in specific area, you can select when you create subnet
