@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "14a4d6649e819775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books in 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bab6d1ee38e1b8ae",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何使用GKE 搭配 Cloud Nat.md",
+                "file": "Books in 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何使用GKE 搭配 Cloud Nat.md",
+                "file": "Books in 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何使用GKE 搭配 Cloud Nat.md"
+                "file": "Books in 2023.md"
               }
             }
           }
@@ -159,14 +172,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b184e0994e17abf2",
+  "active": "14a4d6649e819775",
   "lastOpenFiles": [
+    "如何使用GKE 搭配 Cloud Nat.md",
+    "Books in 2023.md",
     "A Deep Dive into AWS Lambda.md",
     "雲端服務與系統設計基礎.md",
     "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
     "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
     "Chip War.md",
-    "如何使用GKE 搭配 Cloud Nat.md",
     "Test.md",
     "images/Pasted image 20240213121715.png",
     "images/Pasted image 20240213121444.png",
