@@ -5,7 +5,7 @@
 I have an personal website app built on nextjs want to deploy on production and run in docker. This article teach you deploy an docker container on AWS step by step.
 
 ## Create a EC2 VM
-First, you need an AWS account. 
+First, you need an AWS account. yo
 when you login your account, you move to EC2 page create a VM in small demand.
 I choose t4g.micro here. It's enough for my app.
 ![[Pasted image 20240211231200.png|500]]
