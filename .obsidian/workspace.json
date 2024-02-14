@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Deep Dive into AWS Lambda.md",
+                "file": "如何使用GKE 搭配 Cloud Nat.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "雲端服務與系統設計基礎.md",
+                "file": "如何使用GKE 搭配 Cloud Nat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "雲端服務與系統設計基礎.md",
+                "file": "如何使用GKE 搭配 Cloud Nat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "雲端服務與系統設計基礎.md"
+                "file": "如何使用GKE 搭配 Cloud Nat.md"
               }
             }
           }
@@ -160,15 +159,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bab6d1ee38e1b8ae",
+  "active": "b184e0994e17abf2",
   "lastOpenFiles": [
+    "A Deep Dive into AWS Lambda.md",
+    "雲端服務與系統設計基礎.md",
     "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
     "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
     "Chip War.md",
     "如何使用GKE 搭配 Cloud Nat.md",
     "Test.md",
-    "A Deep Dive into AWS Lambda.md",
-    "雲端服務與系統設計基礎.md",
     "images/Pasted image 20240213121715.png",
     "images/Pasted image 20240213121444.png",
     "images/Pasted image 20240211231200.png",
