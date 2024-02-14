@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+                "file": "雲端服務與系統設計基礎.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+                "file": "雲端服務與系統設計基礎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+                "file": "雲端服務與系統設計基礎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md"
+                "file": "雲端服務與系統設計基礎.md"
               }
             }
           }
@@ -162,13 +162,13 @@
   },
   "active": "bab6d1ee38e1b8ae",
   "lastOpenFiles": [
+    "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
     "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
     "Chip War.md",
     "如何使用GKE 搭配 Cloud Nat.md",
     "Test.md",
     "A Deep Dive into AWS Lambda.md",
     "雲端服務與系統設計基礎.md",
-    "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
     "images/Pasted image 20240213121715.png",
     "images/Pasted image 20240213121444.png",
     "images/Pasted image 20240211231200.png",
