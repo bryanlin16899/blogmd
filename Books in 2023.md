@@ -16,3 +16,6 @@ Books I read in 2023, coming soon..
 
 ## 蛤蟆先生去看心理師
 ![[Pasted image 20240215205555.png|150]]
+
+## 思辨賽局
+![[Pasted image 20240215205859.png|150]]
