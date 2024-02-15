@@ -20,6 +20,7 @@
 (Nesnesitelná lehkost bytí)
 ![[Pasted image 20240215205221.png|150]]
 
+
 ## 槍炮、病菌與鋼鐵: 人類社會的命運
 ![[Pasted image 20240215205352.png|150]]
 
@@ -28,3 +29,4 @@
 
 ## 思辨賽局
 ![[Pasted image 20240215205859.png|150]]
+身為業餘
