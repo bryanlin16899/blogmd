@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f5c8141c7e6b7c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books in 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bab6d1ee38e1b8ae",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,27 +184,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14a4d6649e819775",
+  "active": "96d4ac42d8d97d58",
   "lastOpenFiles": [
+    "unpublished/思辨賽局.md",
+    "Books in 2023.md",
+    "如何使用GKE 搭配 Cloud Nat.md",
+    "Chip War.md",
+    "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
+    "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
+    "Unpublished/Untitled",
+    "unpublished",
     "images/Pasted image 20240215205859.png",
     "images/Pasted image 20240215205555.png",
     "images/Pasted image 20240215205352.png",
     "images/Pasted image 20240215205221.png",
     "images/Pasted image 20240215203646.png",
-    "如何使用GKE 搭配 Cloud Nat.md",
-    "Books in 2023.md",
     "A Deep Dive into AWS Lambda.md",
     "雲端服務與系統設計基礎.md",
-    "Effortlessly Launch Your App on AWS. A Step-by-Step Deployment Guide.md",
-    "The Contrarian-Peter Thiel and Silicon Valley's Pursuit of Power.md",
-    "Chip War.md",
     "Test.md",
     "images/Pasted image 20240213121715.png",
     "images/Pasted image 20240213121444.png",
     "images/Pasted image 20240211231200.png",
     "images/Pasted image 20230608162420.png",
     "images/Pasted image 20230608162136.png",
-    "images/Pasted image 20230608160941.png",
     "category.md",
     "template/template.md",
     "template/Untitled",
