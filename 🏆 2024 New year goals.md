@@ -51,5 +51,5 @@ My new year goals in 2024
 - 沒想到 (物慾蠻低的嘛)
 
 ## 受啟發
-[2020 New Year Goals](https://sheracaolity.ghost.io/2020-new-year-goals/)
+[2020 New Year Goals - 陳雨安](https://sheracaolity.ghost.io/2020-new-year-goals/)
 [Productivity - Sam Altman](https://blog.samaltman.com/productivity)
