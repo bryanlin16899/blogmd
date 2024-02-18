@@ -10,7 +10,7 @@ My new year goals in 2024
 ## Goals
 
 - ### 為15本對我有影響的書或文章寫筆記
-	>在各個領域的頂尖人才，無一是不愛閱讀的，舉凡世界首富Elon Musk、Reddit前執行長現任OpenAI執行長Sam Altman 以及 Heptabase創辦人陳雨安，都是我景仰且非常愛閱讀的人才，即便自己沒有他們的百分之一，至少能讓我更靠近頂尖一點。
+	>各個領域的頂尖人才，無一是不愛閱讀的，舉凡世界首富Elon Musk、Reddit前執行長現任OpenAI執行長Sam Altman 以及 Heptabase創辦人陳雨安，都是我景仰且非常愛閱讀的人才，即便自己沒有他們的百分之一，至少能讓我更靠近頂尖一點。
 
 - ### 完成 Princeton University Algorithm, Part 1, 2 + 完整筆記
 	>大學時期修過CS的必修，但在許多知識點上我覺得還是不夠清晰，之前就知道普林斯頓有這個公開課，今年希望加強這方面的知識。目的是讓我在解決Coding上的問題能更加順利(包含但不限於工作、LeetCode、面試)。
@@ -29,7 +29,7 @@ My new year goals in 2024
 - ### 貢獻開源專案
 	>使用這麼多開源的套件，是時候做點貢獻了。也可以學習其中的系統架構、開發邏輯，對未來軟體的路肯定是相當有幫助的
 
-- ### 在Bryan's Blog中加入Profolio Page
+- ### 在Bryan's Blog中加入 Portfolio Page
 	>由於客製化程度較高，也希望自己的履歷能與其他人有所差異，其中至少需包含 1.中英文切換(預設英文) 2.時間軸 3.輸出PDF。
 
 ## Prize
@@ -37,7 +37,7 @@ My new year goals in 2024
 以上每完成三個就可以買個自己想要的東西(立即生效)，以下是我目前想到的，順便看看到時候的自己心意有沒有改變。
 - 升降桌 (140cm長)
 - 獨旅 (日本、荷蘭、英國、美國則一) 這項需要全部完成時才可兌換
-- 沒想到 (物慾蠻低的嘛)
+- 還沒想到
 
 ## 受啟發
 [2020 New Year Goals - 陳雨安](https://sheracaolity.ghost.io/2020-new-year-goals/)
